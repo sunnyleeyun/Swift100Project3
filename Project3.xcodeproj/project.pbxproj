@@ -12,6 +12,7 @@
 		0484590A1F98C1860076DDF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048459081F98C1860076DDF2 /* Main.storyboard */; };
 		0484590C1F98C1860076DDF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0484590B1F98C1860076DDF2 /* Assets.xcassets */; };
 		0484590F1F98C1860076DDF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0484590D1F98C1860076DDF2 /* LaunchScreen.storyboard */; };
+		04E0D9D91F98C673003FBD7D /* music1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 048459161F98C21C0076DDF2 /* music1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0484590B1F98C1860076DDF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0484590E1F98C1860076DDF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		048459101F98C1860076DDF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		048459161F98C21C0076DDF2 /* music1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				048459061F98C1860076DDF2 /* ViewController.swift */,
 				048459081F98C1860076DDF2 /* Main.storyboard */,
 				0484590B1F98C1860076DDF2 /* Assets.xcassets */,
+				048459161F98C21C0076DDF2 /* music1.mp3 */,
 				0484590D1F98C1860076DDF2 /* LaunchScreen.storyboard */,
 				048459101F98C1860076DDF2 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E0D9D91F98C673003FBD7D /* music1.mp3 in Resources */,
 				0484590F1F98C1860076DDF2 /* LaunchScreen.storyboard in Resources */,
 				0484590C1F98C1860076DDF2 /* Assets.xcassets in Resources */,
 				0484590A1F98C1860076DDF2 /* Main.storyboard in Resources */,
